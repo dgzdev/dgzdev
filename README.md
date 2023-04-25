@@ -2,10 +2,6 @@
 ## 🏷️ Estudante de programação desde os 12 anos, atualmente com 15, isto é, na criação desde readme.
 ### Sou popularmente conhecido como "Since", um nickname dos jogos e redes.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sincevoid&label=Profile%20views&color=0e75b6&style=flat" alt="sincevoid" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sincevoid" alt="sincevoid" /></a> </p>
-
 <h3 align="center">Contate-me:</h3>
 <p align="center">
 <a href="https://instagram.com/joaoxvst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoxvst" height="30" width="40" /></a>
@@ -19,3 +15,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sincevoid&show_icons=true&locale=en" alt="sincevoid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sincevoid&" alt="sincevoid" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sincevoid&label=Profile%20views&color=0e75b6&style=flat" alt="sincevoid" /> </p>
