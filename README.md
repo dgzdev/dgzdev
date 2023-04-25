@@ -3,7 +3,7 @@
 ### Sou popularmente conhecido como "Since", um nickname dos jogos e redes.
 
 <h1 align="center">🏷️ Contate-me:</h1>
-<p align="left">
+<p align="center">
 <a href="https://instagram.com/joaoxvst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joaoxvst" height="30" width="40" /></a>
 </p>
 
