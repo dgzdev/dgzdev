@@ -1,5 +1,5 @@
 # 👋 Olá! Sou o João.
-## 🏷️ Estudante de programação desde os 12 anos, atualmente com 15, isto é, na criação desde readme.
+## 🏷️ Estudante de programação desde os 12 anos.
 ### Sou popularmente conhecido como "Since", um nickname dos jogos e redes.
 
 * # 🏷️ Contate-me:
