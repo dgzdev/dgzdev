@@ -7,9 +7,9 @@ Utilizo do nickname de sincevoid como um username de programador, estudo program
 </p>
 
 * ### 📍 Conhecimento:
-  JavaScript, PHP, HTML, CSS, LUAU, LUA, Markdown, Python.
-  Ferramentas de edição de Código: Visual Studio Code, SublimeText, Notepad++
-  Ferramentas de edição de Imagens: Photoshop, Illustrator, Paint.net, Blender
+1. Linguages: JavaScript, PHP, HTML, CSS, LUAU, LUA, Markdown, Python.
+2. Ferramentas de edição de Código: Visual Studio Code, SublimeText, Notepad++
+3. Ferramentas de edição de Imagens: Photoshop, Illustrator, Paint.net, Blender
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sincevoid&show_icons=true&locale=en&layout=compact" alt="sincevoid" /></p>
 
